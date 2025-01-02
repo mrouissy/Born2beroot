@@ -11,9 +11,9 @@ This guide has 8 Parts:
 
 ## Part 1 - Downloading Your Virtual Machine
 
-1. Click on this link <ins>**https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.8.0-amd64-netinst.iso**
+1. Click on this link <ins>**https://www.debian.org/**
 
-2. Scroll to the bottom of the website and click `debian-xx.x.x-amd64-netinst.iso`
+2. Click on Downlaod  
 
 ### Part 1.2 - Virtual Box
 
